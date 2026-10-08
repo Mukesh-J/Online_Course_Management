@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot 2026-10-08 120255" src="https://github.com/user-attachments/assets/092f156a-c2cb-4639-8f78-3b2028f4bc1f" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-08 120308" src="https://github.com/user-attachments/assets/d3767bde-7d24-494a-8c85-db86a98d5fbd" />
+
 # Online Course Management API
 
 A RESTful Online Course Management API built using **FastAPI, MySQL, SQLAlchemy, Pydantic, and JWT Authentication**.
